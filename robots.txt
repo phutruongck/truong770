@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+Disallow: /css/
+Disallow: /js/
+
+User-agent: Googlebot
+Disallow: /*.gif$
+
+Sitemap: http://truong770.noobteam.site/sitemap.xml
